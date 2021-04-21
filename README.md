@@ -21,5 +21,7 @@
 
 ## **My GitHub Stats**
 
-<img align="left" alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Apoorva-Shukla&show_icons=true&hide_border=true&theme=radical" />
-<img align="left" alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Shukla&layout=compact&theme=radical" />
+<img alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Apoorva-Shukla&show_icons=true&hide_border=true&theme=radical" />
+
+
+<img alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Shukla&show_icons=true&hide_border=true&theme=radical" />
