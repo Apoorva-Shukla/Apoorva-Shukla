@@ -25,3 +25,6 @@
 
 
 <img alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Shukla&show_icons=true&hide_border=true&theme=radical" />
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=Apoorva-Shukla)
