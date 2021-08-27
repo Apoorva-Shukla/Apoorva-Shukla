@@ -1,24 +1,28 @@
+<h1>Hi 👋, I'm Apoorva</h1>
+<h3>A passionate developer</h3>
 
-<h1>Hi there, I am <a href="https://github.com/Apoorva-Shukla" target="_blank">Apoorva</a></h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva-shukla" /> </p>
 
- ## My Skills :computer:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorva-shukla" alt="apoorva-shukla" /></a> </p>
 
- **Languages and Frameworks**
- 
-<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="React" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"/>|<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>|<img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>
-|--|--|--|--|--|--|--|--|
+<p align="left"> <a href="https://twitter.com/apoorva05127765" target="blank"><img src="https://img.shields.io/twitter/follow/apoorva05127765?logo=twitter&style=for-the-badge" alt="apoorva05127765" /></a> </p>
 
- **Tools**
- 
- <img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
- |--|--|--|
+- 📫 How to reach me **apoorva210907@gmail.com**
 
-## **My GitHub Stats**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/apoorva05127765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apoorva05127765" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15692523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15692523" height="30" width="40" /></a>
+<a href="https://fb.com/apoorva.shukla.52012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apoorva.shukla.52012" height="30" width="40" /></a>
+<a href="https://instagram.com/apoorva210907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apoorva210907" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCGmHBYgjBxaVWMN3q1d8LZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="apoorva shukla" height="30" width="40" /></a>
+</p>
 
-<img alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Apoorva-Shukla&show_icons=true&hide_border=true&theme=radical" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorva-shukla&show_icons=true&locale=en&layout=compact" alt="apoorva-shukla" /></p>
 
-<img alt="Apoorva-Shukla's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Shukla&show_icons=true&hide_border=true&theme=radical" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorva-shukla&show_icons=true&locale=en" alt="apoorva-shukla" /></p>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=Apoorva-Shukla)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-shukla&" alt="apoorva-shukla" /></p>
