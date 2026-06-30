@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorva-shukla" alt="apoorva-shukla" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/apoorva05127765" target="blank"><img src="https://img.shields.io/twitter/follow/apoorva05127765?logo=twitter&style=for-the-badge" alt="apoorva05127765" /></a> </p>
 
 - 📫 How to reach me **apoorva210907@gmail.com**
 
