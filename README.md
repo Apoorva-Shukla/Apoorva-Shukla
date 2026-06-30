@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Apoorva</h1>
-<h3>A passionate developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva-shukla" /> </p>
 
